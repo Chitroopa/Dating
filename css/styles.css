@@ -1,0 +1,10 @@
+body {
+  background-color: #f0f2cd;
+}
+.jumbotron {
+  background-color: #c8cc8e;
+}
+img, .hide, .hopeless{
+  display: none;
+  width: 50%;
+}
